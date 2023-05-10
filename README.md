@@ -2,7 +2,7 @@
  <h1>💫About Me :</h1>
  - 🔭 I’m currently working on my Skills.
  <br>
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning .Net
 <br>
 - 🤔 I’m looking for help with Exploring New Technologies.
 <br>
